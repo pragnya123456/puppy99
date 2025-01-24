@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[getting report connection successfully]]>
+    </line>
+    <line>
+      <![CDATA[onStart]]>
+    </line>
+    <line>
+      <![CDATA[TestRunner connected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser navigated successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on My Account header link successfull]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on login button link successfull]]>
+    </line>
+    <line>
+      <![CDATA[logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart]]>
+    </line>
+    <line>
+      <![CDATA[mouse hover to PC desktop is successfull]]>
+    </line>
+    <line>
+      <![CDATA[onTestSuccess]]>
+    </line>
+    <line>
+      <![CDATA[logged out successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser terminated successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser navigated successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on My Account header link successfull]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on login button link successfull]]>
+    </line>
+    <line>
+      <![CDATA[logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[onTestStart]]>
+    </line>
+    <line>
+      <![CDATA[onTestFailure]]>
+    </line>
+    <line>
+      <![CDATA[onTestFailure]]>
+    </line>
+    <line>
+      <![CDATA[TestRunner terminated successfully]]>
+    </line>
+    <line>
+      <![CDATA[terminate report connection successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-01-10T13:40:59 IST" name="Suite_Functionality" finished-at="2025-01-10T13:40:59 IST" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- Suite_Functionality -->
+</testng-results>
